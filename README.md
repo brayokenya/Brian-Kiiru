@@ -37,9 +37,6 @@ that deliver value.
 [![wakatime](https://wakatime.com/badge/user/4a00677b-a6e2-48ba-944a-2f519fea7115.svg)](https://wakatime.com/@4a00677b-a6e2-48ba-944a-2f519fea7115)
 
 </br>
-
-
-<a href="https://wakatime.com/@4a00677b-a6e2-48ba-944a-2f519fea7115"><img src="https://wakatime.com/badge/user/4a00677b-a6e2-48ba-944a-2f519fea7115.svg" alt="Total time coded since May 4 2021" /></a>
 </br>
 
 ### 🤝 Connect with me:
