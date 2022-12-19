@@ -30,8 +30,14 @@ that deliver value.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+</br>
+</br>
+
 ## Total Code Time 💻
 [![wakatime](https://wakatime.com/badge/user/4a00677b-a6e2-48ba-944a-2f519fea7115.svg)](https://wakatime.com/@4a00677b-a6e2-48ba-944a-2f519fea7115)
+
+</br>
+</br>
 
 ### 🤝 Connect with me:
 
