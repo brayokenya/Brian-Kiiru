@@ -35,7 +35,6 @@ that deliver value.
 
 ## Total Code Time 💻
 [![wakatime](https://wakatime.com/badge/user/4a00677b-a6e2-48ba-944a-2f519fea7115.svg)](https://wakatime.com/@4a00677b-a6e2-48ba-944a-2f519fea7115)
-
 </br>
 </br>
 
