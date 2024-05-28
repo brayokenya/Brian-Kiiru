@@ -1,7 +1,7 @@
 
 ### Brian Kiiru
 <br>
-A solution-focused Software Developer with industry experience in designing, developing, deploying and maintaining web applications
+A solution-focused Software Engineer with industry experience in designing, developing, deploying and maintaining web applications
 that deliver value.
 
 ## 💼 Technical Skills
